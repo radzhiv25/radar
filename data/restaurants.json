@@ -1,0 +1,3530 @@
+[
+  {
+    "name": "Indian Accent",
+    "slug": "indian-accent",
+    "cuisine": "Modern Indian",
+    "price_band": 4,
+    "area": "south",
+    "neighbourhood": "Lodhi Colony",
+    "lat": 28.5912,
+    "lng": 77.227,
+    "description": "Globally acclaimed tasting menus reimagining Indian classics in a leafy bungalow.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "upscale"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "intimate"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "food",
+        "tag": "modern-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "tasting-menu"
+      }
+    ]
+  },
+  {
+    "name": "Bukhara",
+    "slug": "bukhara-itc",
+    "cuisine": "North Indian",
+    "price_band": 4,
+    "area": "south",
+    "neighbourhood": "Chanakyapuri",
+    "lat": 28.5968,
+    "lng": 77.1732,
+    "description": "Legendary dal bukhara and tandoori platters in a rustic ITC dining room.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "classic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "tandoor"
+      },
+      {
+        "tag_type": "food",
+        "tag": "kebabs"
+      }
+    ]
+  },
+  {
+    "name": "Olive Bar & Kitchen",
+    "slug": "olive-mehrauli",
+    "cuisine": "Mediterranean",
+    "price_band": 4,
+    "area": "south",
+    "neighbourhood": "Mehrauli",
+    "lat": 28.5248,
+    "lng": 77.1855,
+    "description": "Courtyard Mediterranean with Delhi skyline views near Qutub Minar.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "romantic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "food",
+        "tag": "mediterranean"
+      },
+      {
+        "tag_type": "food",
+        "tag": "wood-fired"
+      }
+    ]
+  },
+  {
+    "name": "Guppy by ai",
+    "slug": "guppy-by-ai",
+    "cuisine": "Japanese",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Lodhi Colony",
+    "lat": 28.5901,
+    "lng": 77.2245,
+    "description": "Playful izakaya energy with sushi, ramen, and neon-lit interiors.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "trendy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "sushi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "ramen"
+      }
+    ]
+  },
+  {
+    "name": "Diggin",
+    "slug": "diggin-chanakyapuri",
+    "cuisine": "Italian",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Chanakyapuri",
+    "lat": 28.5835,
+    "lng": 77.1868,
+    "description": "Garden café famous for wood-fired pizzas and all-day brunch.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "outdoor"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "family-friendly"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "food",
+        "tag": "pizza"
+      },
+      {
+        "tag_type": "food",
+        "tag": "pasta"
+      }
+    ]
+  },
+  {
+    "name": "Town Hall",
+    "slug": "town-hall-khan-market",
+    "cuisine": "European",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Khan Market",
+    "lat": 28.6003,
+    "lng": 77.2278,
+    "description": "Bustling Khan Market brasserie for European comfort and cocktails.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "see-and-be-seen"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "continental"
+      },
+      {
+        "tag_type": "food",
+        "tag": "cocktails"
+      }
+    ]
+  },
+  {
+    "name": "Fig & Maple",
+    "slug": "fig-and-maple",
+    "cuisine": "Modern European",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Khan Market",
+    "lat": 28.5998,
+    "lng": 77.2289,
+    "description": "Seasonal plates and natural wines in a bright Khan Market townhouse.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "cozy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "trendy"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "food",
+        "tag": "seasonal"
+      },
+      {
+        "tag_type": "food",
+        "tag": "wine-bar"
+      }
+    ]
+  },
+  {
+    "name": "SodaBottleOpenerWala",
+    "slug": "sbow-khan-market",
+    "cuisine": "Parsi",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Khan Market",
+    "lat": 28.6008,
+    "lng": 77.2265,
+    "description": "Colourful Parsi café with berry pulao and dhansak.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "quirky"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "food",
+        "tag": "parsi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "comfort"
+      }
+    ]
+  },
+  {
+    "name": "The Big Chill Cakery",
+    "slug": "big-chill-khan-market",
+    "cuisine": "Desserts",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Khan Market",
+    "lat": 28.6012,
+    "lng": 77.2295,
+    "description": "Retro diner vibes with legendary cakes and shakes.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80",
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "nostalgic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "desserts"
+      },
+      {
+        "tag_type": "food",
+        "tag": "american-diner"
+      }
+    ]
+  },
+  {
+    "name": "Perch Wine & Coffee Bar",
+    "slug": "perch-khan-market",
+    "cuisine": "European",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Khan Market",
+    "lat": 28.5995,
+    "lng": 77.2272,
+    "description": "Terraced wine bar with small plates overlooking Khan Market lanes.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "intimate"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "drinks"
+      },
+      {
+        "tag_type": "food",
+        "tag": "wine-bar"
+      },
+      {
+        "tag_type": "food",
+        "tag": "small-plates"
+      }
+    ]
+  },
+  {
+    "name": "The Grammar Room",
+    "slug": "grammar-room-meherchand",
+    "cuisine": "European",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Lodhi Colony",
+    "lat": 28.5925,
+    "lng": 77.2262,
+    "description": "Design-forward café by day, wine-forward bistro by night.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "artsy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "cozy"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bistro"
+      },
+      {
+        "tag_type": "food",
+        "tag": "natural-wine"
+      }
+    ]
+  },
+  {
+    "name": "Jamun",
+    "slug": "jamun-lodhi",
+    "cuisine": "Indian",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Lodhi Colony",
+    "lat": 28.5918,
+    "lng": 77.2255,
+    "description": "Regional Indian home-style cooking with a contemporary touch.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "warm"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "dinner"
+      },
+      {
+        "tag_type": "food",
+        "tag": "regional-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "comfort"
+      }
+    ]
+  },
+  {
+    "name": "Lavaash by Saby",
+    "slug": "lavaash-saby",
+    "cuisine": "Armenian",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Mehrauli",
+    "lat": 28.5255,
+    "lng": 77.184,
+    "description": "Armenian bakery and restaurant with lavash and kebabs.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "cozy"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "armenian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bakery"
+      }
+    ]
+  },
+  {
+    "name": "Potbelly",
+    "slug": "potbelly-saket",
+    "cuisine": "Bihari",
+    "price_band": 1,
+    "area": "south",
+    "neighbourhood": "Saket",
+    "lat": 28.5288,
+    "lng": 77.2195,
+    "description": "Litti chokha and Bihari thalis in a cheerful casual setting.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bihari"
+      },
+      {
+        "tag_type": "food",
+        "tag": "street-inspired"
+      }
+    ]
+  },
+  {
+    "name": "Mahabelly",
+    "slug": "mahabelly-saket",
+    "cuisine": "Kerala",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Saket",
+    "lat": 28.5295,
+    "lng": 77.218,
+    "description": "Authentic Kerala seafood and appam in Select Citywalk.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "warm"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "family-friendly"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "dinner"
+      },
+      {
+        "tag_type": "food",
+        "tag": "kerala"
+      },
+      {
+        "tag_type": "food",
+        "tag": "seafood"
+      }
+    ]
+  },
+  {
+    "name": "Plum by Bent Chair",
+    "slug": "plum-saket",
+    "cuisine": "Asian",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Saket",
+    "lat": 28.5275,
+    "lng": 77.2205,
+    "description": "Pan-Asian sharing plates with a stylish Saket crowd.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "trendy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "pan-asian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "sharing"
+      }
+    ]
+  },
+  {
+    "name": "Dhaba by Claridges",
+    "slug": "dhaba-claridges",
+    "cuisine": "North Indian",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Saket",
+    "lat": 28.5302,
+    "lng": 77.2172,
+    "description": "Upscale highway dhaba nostalgia with rich curries and naan.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "rustic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "food",
+        "tag": "punjabi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "curries"
+      }
+    ]
+  },
+  {
+    "name": "Social",
+    "slug": "social-hauz-khas",
+    "cuisine": "Continental",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Hauz Khas",
+    "lat": 28.5495,
+    "lng": 77.1948,
+    "description": "Work-friendly café-bar with affordable plates and loud weekends.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "drinks"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fusion"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bar-snacks"
+      }
+    ]
+  },
+  {
+    "name": "Yet another Café",
+    "slug": "yet-another-cafe-hk",
+    "cuisine": "Café",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Hauz Khas",
+    "lat": 28.5488,
+    "lng": 77.1955,
+    "description": "Third-wave coffee and light bites overlooking the village lake.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80",
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "cozy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "artsy"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "solo"
+      },
+      {
+        "tag_type": "food",
+        "tag": "coffee"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bakery"
+      }
+    ]
+  },
+  {
+    "name": "Elma's",
+    "slug": "elmas-hauz-khas",
+    "cuisine": "European",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Hauz Khas",
+    "lat": 28.5502,
+    "lng": 77.1938,
+    "description": "Beloved bakery for red velvet cake and English breakfast.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "cozy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "nostalgic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bakery"
+      },
+      {
+        "tag_type": "food",
+        "tag": "desserts"
+      }
+    ]
+  },
+  {
+    "name": "Coast Café",
+    "slug": "coast-cafe-hauz-khas",
+    "cuisine": "Seafood",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Hauz Khas",
+    "lat": 28.549,
+    "lng": 77.1962,
+    "description": "Coastal Indian seafood in a compact Hauz Khas Village spot.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "intimate"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "dinner"
+      },
+      {
+        "tag_type": "food",
+        "tag": "seafood"
+      },
+      {
+        "tag_type": "food",
+        "tag": "coastal"
+      }
+    ]
+  },
+  {
+    "name": "Raasta",
+    "slug": "raasta-cyber-hub",
+    "cuisine": "Continental",
+    "price_band": 2,
+    "area": "west",
+    "neighbourhood": "Cyber Hub",
+    "lat": 28.4945,
+    "lng": 77.0888,
+    "description": "Caribbean-themed bar with live music in Gurugram's Cyber Hub.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "party"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "drinks"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bar-food"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fusion"
+      }
+    ]
+  },
+  {
+    "name": "Farzi Café",
+    "slug": "farzi-cyber-hub",
+    "cuisine": "Modern Indian",
+    "price_band": 3,
+    "area": "west",
+    "neighbourhood": "Cyber Hub",
+    "lat": 28.4952,
+    "lng": 77.0895,
+    "description": "Molecular gastronomy Indian with dramatic presentation.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "trendy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "food",
+        "tag": "modern-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fusion"
+      }
+    ]
+  },
+  {
+    "name": "Pra Pra Prank",
+    "slug": "pra-pra-prank",
+    "cuisine": "Indian",
+    "price_band": 3,
+    "area": "west",
+    "neighbourhood": "Sector 29",
+    "lat": 28.4648,
+    "lng": 77.0725,
+    "description": "Playful Indian tapas and prank-themed cocktails in Sector 29.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "quirky"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "birthday"
+      },
+      {
+        "tag_type": "food",
+        "tag": "tapas"
+      },
+      {
+        "tag_type": "food",
+        "tag": "cocktails"
+      }
+    ]
+  },
+  {
+    "name": "SodaBottleOpenerWala Cyber Hub",
+    "slug": "sbow-cyber-hub",
+    "cuisine": "Parsi",
+    "price_band": 2,
+    "area": "west",
+    "neighbourhood": "Cyber Hub",
+    "lat": 28.494,
+    "lng": 77.0902,
+    "description": "Parsi favourites for the corporate lunch crowd.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "bright"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "work-lunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "parsi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "comfort"
+      }
+    ]
+  },
+  {
+    "name": "Punjabi By Nature",
+    "slug": "punjabi-by-nature-rajouri",
+    "cuisine": "North Indian",
+    "price_band": 2,
+    "area": "west",
+    "neighbourhood": "Rajouri Garden",
+    "lat": 28.6412,
+    "lng": 77.1185,
+    "description": "Hearty Punjabi buffet and karahi in West Delhi.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "family-friendly"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "food",
+        "tag": "punjabi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "buffet"
+      }
+    ]
+  },
+  {
+    "name": "Pind Balluchi",
+    "slug": "pind-balluchi-paschim",
+    "cuisine": "North Indian",
+    "price_band": 2,
+    "area": "west",
+    "neighbourhood": "Paschim Vihar",
+    "lat": 28.6695,
+    "lng": 77.0958,
+    "description": "Village-themed Punjabi restaurant with folk décor.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "rustic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "group"
+      },
+      {
+        "tag_type": "food",
+        "tag": "punjabi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "thali"
+      }
+    ]
+  },
+  {
+    "name": "Berco's",
+    "slug": "bercos-rajouri",
+    "cuisine": "Chinese",
+    "price_band": 2,
+    "area": "west",
+    "neighbourhood": "Rajouri Garden",
+    "lat": 28.6425,
+    "lng": 77.117,
+    "description": "Classic Delhi Chinese chain for honey chilli potato loyalists.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "nostalgic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "food",
+        "tag": "indo-chinese"
+      },
+      {
+        "tag_type": "food",
+        "tag": "comfort"
+      }
+    ]
+  },
+  {
+    "name": "The Beer Café",
+    "slug": "beer-cafe-connaught",
+    "cuisine": "Pub",
+    "price_band": 2,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.6315,
+    "lng": 77.2195,
+    "description": "Global craft beers and bar bites in inner circle CP.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80",
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "drinks"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "food",
+        "tag": "pub-food"
+      },
+      {
+        "tag_type": "food",
+        "tag": "beer"
+      }
+    ]
+  },
+  {
+    "name": "United Coffee House",
+    "slug": "united-coffee-house",
+    "cuisine": "Continental",
+    "price_band": 3,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.6328,
+    "lng": 77.218,
+    "description": "Since 1942 — sizzlers, cutlets, and old-world CP charm.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "classic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "elegant"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "food",
+        "tag": "continental"
+      },
+      {
+        "tag_type": "food",
+        "tag": "legacy"
+      }
+    ]
+  },
+  {
+    "name": "Wenger's",
+    "slug": "wengers-cp",
+    "cuisine": "Bakery",
+    "price_band": 2,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.6335,
+    "lng": 77.2202,
+    "description": "Iconic CP patisserie for pastries and quick sandwiches.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "nostalgic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "quick"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "solo"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bakery"
+      },
+      {
+        "tag_type": "food",
+        "tag": "desserts"
+      }
+    ]
+  },
+  {
+    "name": "Indian Coffee House",
+    "slug": "indian-coffee-house-cp",
+    "cuisine": "South Indian",
+    "price_band": 1,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.634,
+    "lng": 77.2175,
+    "description": "Budget filter coffee and masala dosa institution in CP.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "no-frills"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "solo"
+      },
+      {
+        "tag_type": "food",
+        "tag": "south-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "coffee"
+      }
+    ]
+  },
+  {
+    "name": "Kake Da Hotel",
+    "slug": "kake-da-hotel",
+    "cuisine": "North Indian",
+    "price_band": 1,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.632,
+    "lng": 77.221,
+    "description": "Late-night butter chicken legend near outer circle.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "bustling"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "late-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "food",
+        "tag": "punjabi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "butter-chicken"
+      }
+    ]
+  },
+  {
+    "name": "Tamra",
+    "slug": "tamra-shangri-la",
+    "cuisine": "Multi-cuisine",
+    "price_band": 4,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.6295,
+    "lng": 77.2225,
+    "description": "Luxury buffet at Shangri-La with live counters and global spread.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "upscale"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "grand"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "buffet"
+      },
+      {
+        "tag_type": "food",
+        "tag": "global"
+      }
+    ]
+  },
+  {
+    "name": "The Imperial Spice",
+    "slug": "imperial-spice-cp",
+    "cuisine": "Indian",
+    "price_band": 3,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.6308,
+    "lng": 77.2238,
+    "description": "Refined Indian dining with colonial-era CP aesthetics.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "elegant"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "classic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "business"
+      },
+      {
+        "tag_type": "food",
+        "tag": "modern-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fine-dining"
+      }
+    ]
+  },
+  {
+    "name": "Karim's",
+    "slug": "karims-jama-masjid",
+    "cuisine": "Mughlai",
+    "price_band": 1,
+    "area": "north",
+    "neighbourhood": "Old Delhi",
+    "lat": 28.6507,
+    "lng": 77.2332,
+    "description": "Historic Old Delhi institution for mutton korma and nahari.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "no-frills"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "iconic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "adventure"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "food",
+        "tag": "mughlai"
+      },
+      {
+        "tag_type": "food",
+        "tag": "kebabs"
+      }
+    ]
+  },
+  {
+    "name": "Al Jawahar",
+    "slug": "al-jawahar-jama",
+    "cuisine": "Mughlai",
+    "price_band": 1,
+    "area": "north",
+    "neighbourhood": "Old Delhi",
+    "lat": 28.6512,
+    "lng": 77.2325,
+    "description": "Neighbour to Karim's — legendary mutton burra and roti.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "bustling"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "adventure"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "mughlai"
+      },
+      {
+        "tag_type": "food",
+        "tag": "curries"
+      }
+    ]
+  },
+  {
+    "name": "Haveli Dharampura",
+    "slug": "haveli-dharampura",
+    "cuisine": "North Indian",
+    "price_band": 3,
+    "area": "north",
+    "neighbourhood": "Chandni Chowk",
+    "lat": 28.6565,
+    "lng": 77.231,
+    "description": "Restored haveli rooftop dining over Chandni Chowk skyline.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+    ],
+    "is_editors_pick": true,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "heritage"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "mughlai"
+      },
+      {
+        "tag_type": "food",
+        "tag": "thali"
+      }
+    ]
+  },
+  {
+    "name": "Bistro du Park",
+    "slug": "bistro-du-park-civil-lines",
+    "cuisine": "European",
+    "price_band": 3,
+    "area": "north",
+    "neighbourhood": "Civil Lines",
+    "lat": 28.6735,
+    "lng": 77.2265,
+    "description": "Park-facing European bistro popular with North Delhi families.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80",
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "outdoor"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "family-friendly"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "continental"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bistro"
+      }
+    ]
+  },
+  {
+    "name": "Mamagoto",
+    "slug": "mamagoto-khan-market",
+    "cuisine": "Pan-Asian",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Khan Market",
+    "lat": 28.6005,
+    "lng": 77.228,
+    "description": "Fun pan-Asian with manga-inspired interiors.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "playful"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "food",
+        "tag": "pan-asian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "noodles"
+      }
+    ]
+  },
+  {
+    "name": "The Fatty Bao",
+    "slug": "fatty-bao-khan",
+    "cuisine": "Asian",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Khan Market",
+    "lat": 28.599,
+    "lng": 77.2298,
+    "description": "Baos, dim sum, and bold Asian flavours from the Hunger Inc stable.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "trendy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bao"
+      },
+      {
+        "tag_type": "food",
+        "tag": "dim-sum"
+      }
+    ]
+  },
+  {
+    "name": "Green Park Social",
+    "slug": "social-green-park",
+    "cuisine": "Continental",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Green Park",
+    "lat": 28.5595,
+    "lng": 77.2068,
+    "description": "Neighbourhood Social outpost with familiar café-bar menu.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "work-friendly"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "work-lunch"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fusion"
+      },
+      {
+        "tag_type": "food",
+        "tag": "burgers"
+      }
+    ]
+  },
+  {
+    "name": "Sarvana Bhavan",
+    "slug": "sarvana-connaught",
+    "cuisine": "South Indian",
+    "price_band": 1,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.6345,
+    "lng": 77.2188,
+    "description": "Reliable South Indian chain for dosas and filter coffee.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "quick"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "family-friendly"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "south-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "dosa"
+      }
+    ]
+  },
+  {
+    "name": "Nizam's Kathi Kabab",
+    "slug": "nizams-kathi",
+    "cuisine": "Mughlai",
+    "price_band": 1,
+    "area": "north",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.631,
+    "lng": 77.2198,
+    "description": "Original kathi roll pioneers — still a quick CP classic.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "quick"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "iconic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "solo"
+      },
+      {
+        "tag_type": "food",
+        "tag": "kathi-roll"
+      },
+      {
+        "tag_type": "food",
+        "tag": "street"
+      }
+    ]
+  },
+  {
+    "name": "Dilli 32",
+    "slug": "dilli-32-leela",
+    "cuisine": "North Indian",
+    "price_band": 4,
+    "area": "south",
+    "neighbourhood": "Chanakyapuri",
+    "lat": 28.5975,
+    "lng": 77.1745,
+    "description": "Fine-dining Indian at The Leela with elegant plating.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "upscale"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "quiet"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "business"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "food",
+        "tag": "modern-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fine-dining"
+      }
+    ]
+  },
+  {
+    "name": "Rose Cafe",
+    "slug": "rose-cafe-saket",
+    "cuisine": "European",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Saket",
+    "lat": 28.5265,
+    "lng": 77.2215,
+    "description": "Pink-hued café for brunch, salads, and Instagram moments.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "cute"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "cozy"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "café"
+      },
+      {
+        "tag_type": "food",
+        "tag": "desserts"
+      }
+    ]
+  },
+  {
+    "name": "Depaul's",
+    "slug": "depauls-outer",
+    "cuisine": "Café",
+    "price_band": 1,
+    "area": "north",
+    "neighbourhood": "Civil Lines",
+    "lat": 28.675,
+    "lng": 77.224,
+    "description": "Famous hot chocolate and shakes since generations.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "nostalgic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "quick"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "solo"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "food",
+        "tag": "shakes"
+      },
+      {
+        "tag_type": "food",
+        "tag": "café"
+      }
+    ]
+  },
+  {
+    "name": "Carnatic Cafe",
+    "slug": "carnatic-cafe-gk",
+    "cuisine": "South Indian",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Greater Kailash",
+    "lat": 28.5485,
+    "lng": 77.2385,
+    "description": "Bangalore-style filter coffee and crisp dosas in GK-2.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "warm"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "south-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "coffee"
+      }
+    ]
+  },
+  {
+    "name": "Sagar Ratna",
+    "slug": "sagar-ratna-gk",
+    "cuisine": "South Indian",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Greater Kailash",
+    "lat": 28.5492,
+    "lng": 77.2398,
+    "description": "Vegetarian South Indian staple for family dinners in GK.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80",
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "family-friendly"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "dinner"
+      },
+      {
+        "tag_type": "food",
+        "tag": "south-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "vegetarian"
+      }
+    ]
+  },
+  {
+    "name": "Big Dragon",
+    "slug": "big-dragon-gk",
+    "cuisine": "Chinese",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Greater Kailash",
+    "lat": 28.5478,
+    "lng": 77.2372,
+    "description": "Neighbourhood Chinese for dependable chow mein and manchurian.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "delivery"
+      },
+      {
+        "tag_type": "food",
+        "tag": "indo-chinese"
+      },
+      {
+        "tag_type": "food",
+        "tag": "comfort"
+      }
+    ]
+  },
+  {
+    "name": "The Living Room",
+    "slug": "living-room-defence-colony",
+    "cuisine": "European",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Defence Colony",
+    "lat": 28.5735,
+    "lng": 77.2318,
+    "description": "Def Col institution for European comfort food and desserts.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "cozy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "classic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "continental"
+      },
+      {
+        "tag_type": "food",
+        "tag": "desserts"
+      }
+    ]
+  },
+  {
+    "name": "SodaBottleOpenerWala Defence Colony",
+    "slug": "sbow-def-col",
+    "cuisine": "Parsi",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Defence Colony",
+    "lat": 28.5742,
+    "lng": 77.2325,
+    "description": "Parsi comfort in the heart of Defence Colony market.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "quirky"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "food",
+        "tag": "parsi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "comfort"
+      }
+    ]
+  },
+  {
+    "name": "Hauz Khas Social",
+    "slug": "social-hk-village",
+    "cuisine": "Continental",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Hauz Khas",
+    "lat": 28.5505,
+    "lng": 77.194,
+    "description": "Rooftop-adjacent Social with lake views and party nights.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "drinks"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fusion"
+      },
+      {
+        "tag_type": "food",
+        "tag": "burgers"
+      }
+    ]
+  },
+  {
+    "name": "La Piazza",
+    "slug": "la-piazza-hyatt",
+    "cuisine": "Italian",
+    "price_band": 4,
+    "area": "south",
+    "neighbourhood": "Bhartiya City",
+    "lat": 28.5412,
+    "lng": 77.2455,
+    "description": "Upscale Italian at Hyatt with wood-fired pizzas and wine list.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "upscale"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "quiet"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "business"
+      },
+      {
+        "tag_type": "food",
+        "tag": "italian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "wine"
+      }
+    ]
+  },
+  {
+    "name": "Dum Pukht",
+    "slug": "dum-pukht-itc",
+    "cuisine": "Awadhi",
+    "price_band": 4,
+    "area": "south",
+    "neighbourhood": "Chanakyapuri",
+    "lat": 28.597,
+    "lng": 77.1728,
+    "description": "Slow-cooked Awadhi biryanis and kebabs in regal ITC setting.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "classic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "upscale"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "awadhi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "biryani"
+      }
+    ]
+  },
+  {
+    "name": "Andhra Bhavan",
+    "slug": "andhra-bhavan",
+    "cuisine": "Andhra",
+    "price_band": 1,
+    "area": "north",
+    "neighbourhood": "Ashok Road",
+    "lat": 28.6125,
+    "lng": 77.2095,
+    "description": "Government canteen-style authentic Andhra thali — cash only, worth it.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "no-frills"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "solo"
+      },
+      {
+        "tag_type": "food",
+        "tag": "andhra"
+      },
+      {
+        "tag_type": "food",
+        "tag": "thali"
+      }
+    ]
+  },
+  {
+    "name": "MKT",
+    "slug": "mkt-chanakyapuri",
+    "cuisine": "Asian",
+    "price_band": 4,
+    "area": "south",
+    "neighbourhood": "Chanakyapuri",
+    "lat": 28.5985,
+    "lng": 77.1715,
+    "description": "All-day dining at Chanakyapuri hotel with Asian and Indian live stations.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "grand"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "bright"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "buffet"
+      },
+      {
+        "tag_type": "food",
+        "tag": "asian"
+      }
+    ]
+  },
+  {
+    "name": "Pandara Road Market",
+    "slug": "pandara-market",
+    "cuisine": "North Indian",
+    "price_band": 2,
+    "area": "north",
+    "neighbourhood": "Pandara Road",
+    "lat": 28.6088,
+    "lng": 77.2288,
+    "description": "Cluster of butter chicken shops — try Gulati or Havemore.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "bustling"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "late-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "punjabi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "butter-chicken"
+      }
+    ]
+  },
+  {
+    "name": "Havemore",
+    "slug": "havemore-pandara",
+    "cuisine": "North Indian",
+    "price_band": 2,
+    "area": "north",
+    "neighbourhood": "Pandara Road",
+    "lat": 28.6092,
+    "lng": 77.2292,
+    "description": "Pandara Road classic for rich curries and tandoori.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80",
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "dinner"
+      },
+      {
+        "tag_type": "food",
+        "tag": "punjabi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "tandoor"
+      }
+    ]
+  },
+  {
+    "name": "Gulati",
+    "slug": "gulati-pandara",
+    "cuisine": "North Indian",
+    "price_band": 2,
+    "area": "north",
+    "neighbourhood": "Pandara Road",
+    "lat": 28.6085,
+    "lng": 77.2285,
+    "description": "Legendary butter chicken destination on Pandara Road since 1960s.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "iconic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "food",
+        "tag": "punjabi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "butter-chicken"
+      }
+    ]
+  },
+  {
+    "name": "Lodi - The Garden Restaurant",
+    "slug": "lodi-garden-restaurant",
+    "cuisine": "European",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Lodhi Road",
+    "lat": 28.5935,
+    "lng": 77.2195,
+    "description": "Alfresco dining beside Lodhi Garden with tranquil green views.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "romantic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "food",
+        "tag": "continental"
+      },
+      {
+        "tag_type": "food",
+        "tag": "outdoor"
+      }
+    ]
+  },
+  {
+    "name": "Thai High",
+    "slug": "thai-high-mehr",
+    "cuisine": "Thai",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Mehrauli",
+    "lat": 28.526,
+    "lng": 77.186,
+    "description": "Rooftop Thai with Qutub backdrop and coconut curries.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "romantic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "dinner"
+      },
+      {
+        "tag_type": "food",
+        "tag": "thai"
+      },
+      {
+        "tag_type": "food",
+        "tag": "curries"
+      }
+    ]
+  },
+  {
+    "name": "Qla",
+    "slug": "qla-mehrauli",
+    "cuisine": "European",
+    "price_band": 4,
+    "area": "south",
+    "neighbourhood": "Mehrauli",
+    "lat": 28.5242,
+    "lng": 77.1872,
+    "description": "Glass-walled fine dining with Qutub Minar views and tasting menus.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "upscale"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fine-dining"
+      },
+      {
+        "tag_type": "food",
+        "tag": "seasonal"
+      }
+    ]
+  },
+  {
+    "name": "Bo-Tai",
+    "slug": "bo-tai-connaught",
+    "cuisine": "Thai",
+    "price_band": 3,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.6318,
+    "lng": 77.2208,
+    "description": "Thai rooftop and speakeasy vibes in central CP.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "trendy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "drinks"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "thai"
+      },
+      {
+        "tag_type": "food",
+        "tag": "cocktails"
+      }
+    ]
+  },
+  {
+    "name": "Parikrama",
+    "slug": "parikrama-revolving",
+    "cuisine": "North Indian",
+    "price_band": 4,
+    "area": "west",
+    "neighbourhood": "Connaught Place",
+    "lat": 28.6302,
+    "lng": 77.2215,
+    "description": "Revolving restaurant with 360° views of Delhi skyline.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "iconic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "food",
+        "tag": "north-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "buffet"
+      }
+    ]
+  },
+  {
+    "name": "Khan Chacha",
+    "slug": "khan-chacha-khan-market",
+    "cuisine": "Mughlai",
+    "price_band": 1,
+    "area": "south",
+    "neighbourhood": "Khan Market",
+    "lat": 28.6015,
+    "lng": 77.2268,
+    "description": "Kathi rolls and kebabs — Khan Market street-food legend.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "quick"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "iconic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "solo"
+      },
+      {
+        "tag_type": "food",
+        "tag": "kathi-roll"
+      },
+      {
+        "tag_type": "food",
+        "tag": "kebabs"
+      }
+    ]
+  },
+  {
+    "name": "The Yum Yum Tree",
+    "slug": "yum-yum-tree",
+    "cuisine": "Pan-Asian",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "New Friends Colony",
+    "lat": 28.5688,
+    "lng": 77.2655,
+    "description": "Multi-level Asian complex with clubs and rooftop.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "grand"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "food",
+        "tag": "pan-asian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "sushi"
+      }
+    ]
+  },
+  {
+    "name": "Swagath",
+    "slug": "swagath-defence-colony",
+    "cuisine": "South Indian",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Defence Colony",
+    "lat": 28.5728,
+    "lng": 77.231,
+    "description": "Coastal and Chettinad seafood specialist in Def Col.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "warm"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "family-friendly"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "dinner"
+      },
+      {
+        "tag_type": "food",
+        "tag": "chettinad"
+      },
+      {
+        "tag_type": "food",
+        "tag": "seafood"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland's Kitchen",
+    "slug": "nagaland-kitchen-hk",
+    "cuisine": "Northeast Indian",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Hauz Khas",
+    "lat": 28.5482,
+    "lng": 77.1968,
+    "description": "Authentic Naga pork and bamboo shoot dishes in Hauz Khas.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80",
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "adventurous"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "adventure"
+      },
+      {
+        "tag_type": "food",
+        "tag": "northeast"
+      },
+      {
+        "tag_type": "food",
+        "tag": "spicy"
+      }
+    ]
+  },
+  {
+    "name": "Mizo Diner",
+    "slug": "mizo-diner-lajpat",
+    "cuisine": "Northeast Indian",
+    "price_band": 2,
+    "area": "east",
+    "neighbourhood": "Lajpat Nagar",
+    "lat": 28.5675,
+    "lng": 77.2435,
+    "description": "Home-style Mizo and Northeast plates in South Delhi.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "cozy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "food",
+        "tag": "northeast"
+      },
+      {
+        "tag_type": "food",
+        "tag": "comfort"
+      }
+    ]
+  },
+  {
+    "name": "Bengali Sweet House",
+    "slug": "bengali-sweet-lajpat",
+    "cuisine": "Indian",
+    "price_band": 1,
+    "area": "east",
+    "neighbourhood": "Lajpat Nagar",
+    "lat": 28.5688,
+    "lng": 77.2418,
+    "description": "Chaat, chole bhature, and Bengali sweets institution.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "bustling"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "quick"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "street"
+      },
+      {
+        "tag_type": "food",
+        "tag": "sweets"
+      }
+    ]
+  },
+  {
+    "name": "Nathu's Sweets",
+    "slug": "nathus-bengali-market",
+    "cuisine": "Indian",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "Bengali Market",
+    "lat": 28.6065,
+    "lng": 77.2335,
+    "description": "Classic sweets and snack counter near Scindia House.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "nostalgic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "quick"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "sweets"
+      },
+      {
+        "tag_type": "food",
+        "tag": "snacks"
+      }
+    ]
+  },
+  {
+    "name": "Kake's Naan",
+    "slug": "kakes-naan-ito",
+    "cuisine": "North Indian",
+    "price_band": 1,
+    "area": "east",
+    "neighbourhood": "ITO",
+    "lat": 28.6285,
+    "lng": 77.254,
+    "description": "Late-night naan and curry fix near Pragati Maidan.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "no-frills"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "late-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "late-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "food",
+        "tag": "punjabi"
+      },
+      {
+        "tag_type": "food",
+        "tag": "naan"
+      }
+    ]
+  },
+  {
+    "name": "States",
+    "slug": "states-canteen",
+    "cuisine": "Multi-cuisine",
+    "price_band": 1,
+    "area": "east",
+    "neighbourhood": "ITO",
+    "lat": 28.6278,
+    "lng": 77.2555,
+    "description": "State bhawan canteens — try Andhra or Nagaland for value.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "no-frills"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "solo"
+      },
+      {
+        "tag_type": "food",
+        "tag": "regional"
+      },
+      {
+        "tag_type": "food",
+        "tag": "thali"
+      }
+    ]
+  },
+  {
+    "name": "Azam's Mughlai",
+    "slug": "azams-mughlai",
+    "cuisine": "Mughlai",
+    "price_band": 2,
+    "area": "east",
+    "neighbourhood": "Jangpura",
+    "lat": 28.5812,
+    "lng": 77.2485,
+    "description": "Late-night Mughlai kebabs beloved by South Delhi night owls.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "late-night"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "local"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "late-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "food",
+        "tag": "mughlai"
+      },
+      {
+        "tag_type": "food",
+        "tag": "kebabs"
+      }
+    ]
+  },
+  {
+    "name": "Diva",
+    "slug": "diva-greater-kailash",
+    "cuisine": "Italian",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Greater Kailash",
+    "lat": 28.5508,
+    "lng": 77.241,
+    "description": "Chef Ritu Dalmia's Italian flagship for pasta and wine.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "elegant"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "intimate"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "business"
+      },
+      {
+        "tag_type": "food",
+        "tag": "italian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "wine"
+      }
+    ]
+  },
+  {
+    "name": "Barbeque Nation",
+    "slug": "bbq-nation-preet",
+    "cuisine": "North Indian",
+    "price_band": 2,
+    "area": "north",
+    "neighbourhood": "Preet Vihar",
+    "lat": 28.6418,
+    "lng": 77.2945,
+    "description": "All-you-can-eat grill chain — reliable family feast.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "family-friendly"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "celebration"
+      },
+      {
+        "tag_type": "food",
+        "tag": "grill"
+      },
+      {
+        "tag_type": "food",
+        "tag": "buffet"
+      }
+    ]
+  },
+  {
+    "name": "Pirates of Grill",
+    "slug": "pirates-grill-rajouri",
+    "cuisine": "North Indian",
+    "price_band": 2,
+    "area": "west",
+    "neighbourhood": "Rajouri Garden",
+    "lat": 28.6405,
+    "lng": 77.1195,
+    "description": "Live grill buffet popular with West Delhi families.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "group"
+      },
+      {
+        "tag_type": "food",
+        "tag": "grill"
+      },
+      {
+        "tag_type": "food",
+        "tag": "buffet"
+      }
+    ]
+  },
+  {
+    "name": "Cafe Lota",
+    "slug": "cafe-lota-pragati",
+    "cuisine": "Indian",
+    "price_band": 2,
+    "area": "east",
+    "neighbourhood": "Pragati Maidan",
+    "lat": 28.6128,
+    "lng": 77.2435,
+    "description": "Regional Indian café at National Crafts Museum — outstanding thalis.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=80",
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "artsy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "scenic"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "food",
+        "tag": "regional-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "thali"
+      }
+    ]
+  },
+  {
+    "name": "Dilli Haat INA",
+    "slug": "dilli-haat-ina",
+    "cuisine": "Multi-cuisine",
+    "price_band": 2,
+    "area": "south",
+    "neighbourhood": "INA",
+    "lat": 28.5755,
+    "lng": 77.209,
+    "description": "Open-air food stalls from across India — great for groups.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c2bc375?w=800&q=80",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "outdoor"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "touristy"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "family"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "group"
+      },
+      {
+        "tag_type": "food",
+        "tag": "street"
+      },
+      {
+        "tag_type": "food",
+        "tag": "regional"
+      }
+    ]
+  },
+  {
+    "name": "Saravana Bhavan INA",
+    "slug": "saravana-ina",
+    "cuisine": "South Indian",
+    "price_band": 1,
+    "area": "south",
+    "neighbourhood": "INA",
+    "lat": 28.5748,
+    "lng": 77.2105,
+    "description": "Quick South Indian opposite INA metro.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "quick"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "casual"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "quick-bite"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "solo"
+      },
+      {
+        "tag_type": "food",
+        "tag": "south-indian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "dosa"
+      }
+    ]
+  },
+  {
+    "name": "Monkey Bar",
+    "slug": "monkey-bar-vasant",
+    "cuisine": "Pub",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Vasant Kunj",
+    "lat": 28.5245,
+    "lng": 77.1588,
+    "description": "Gastropub with craft cocktails and small plates in Vasant Kunj.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828ef9e?w=800&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "trendy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "lively"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "drinks"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "friends"
+      },
+      {
+        "tag_type": "food",
+        "tag": "gastropub"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fusion"
+      }
+    ]
+  },
+  {
+    "name": "Ottimo at West View",
+    "slug": "ottimo-itc",
+    "cuisine": "Italian",
+    "price_band": 4,
+    "area": "west",
+    "neighbourhood": "Chanakyapuri",
+    "lat": 28.5955,
+    "lng": 77.171,
+    "description": "ITC rooftop Italian with diplomatic enclave views.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "romantic"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "upscale"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "business"
+      },
+      {
+        "tag_type": "food",
+        "tag": "italian"
+      },
+      {
+        "tag_type": "food",
+        "tag": "fine-dining"
+      }
+    ]
+  },
+  {
+    "name": "Boa Village",
+    "slug": "boa-village-hk",
+    "cuisine": "European",
+    "price_band": 3,
+    "area": "south",
+    "neighbourhood": "Hauz Khas",
+    "lat": 28.551,
+    "lng": 77.195,
+    "description": "European bistro in Hauz Khas Village courtyards.",
+    "image_urls": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80"
+    ],
+    "is_editors_pick": false,
+    "tags": [
+      {
+        "tag_type": "vibe",
+        "tag": "cozy"
+      },
+      {
+        "tag_type": "vibe",
+        "tag": "trendy"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "date-night"
+      },
+      {
+        "tag_type": "occasion",
+        "tag": "brunch"
+      },
+      {
+        "tag_type": "food",
+        "tag": "bistro"
+      },
+      {
+        "tag_type": "food",
+        "tag": "wine"
+      }
+    ]
+  }
+]
