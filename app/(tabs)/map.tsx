@@ -10,9 +10,13 @@ export default function MapScreen() {
     guide,
     query,
     areaFilter,
+    cuisineFilter,
+    tagFilter,
     refresh,
     setQuery,
     setAreaFilter,
+    setCuisineFilter,
+    setTagFilter,
     clearSearch,
   } = useRestaurants();
   const { savedIds, localPlaces, toggleSave, toggleMapPoi } = useSaves();
@@ -25,8 +29,12 @@ export default function MapScreen() {
         guide={guide}
         query={query}
         areaFilter={areaFilter}
+        cuisineFilter={cuisineFilter}
+        tagFilter={tagFilter}
         onQueryChange={setQuery}
         onAreaFilterChange={setAreaFilter}
+        onCuisineFilterChange={setCuisineFilter}
+        onTagFilterChange={setTagFilter}
         onRefresh={refresh}
         onClearSearch={clearSearch}
         savedIds={savedIds}

@@ -15,7 +15,7 @@ type MapFallbackListProps = {
   onRefresh: () => void;
   onClearSearch: () => void;
   savedIds: Set<string>;
-  onToggleSave: (restaurantId: string) => Promise<void>;
+  onToggleSave: (restaurantId: string) => Promise<boolean>;
 };
 
 export function MapFallbackList({

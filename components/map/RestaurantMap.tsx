@@ -10,7 +10,7 @@ import {
 import MapView, { Marker, type LongPressEvent, type MapPressEvent, type PoiClickEvent } from 'react-native-maps';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
-import { MapAreaFilters } from '@/components/map/MapAreaFilters';
+import { MapFilters, type MapTagFilter } from '@/components/map/MapFilters';
 import { MapFallbackList } from '@/components/map/MapFallbackList';
 import { MapPinPreview } from '@/components/map/MapPinPreview';
 import { MapSearchResults } from '@/components/map/MapSearchResults';
@@ -29,13 +29,17 @@ type RestaurantMapProps = {
   guide: GuideContent | null;
   query: string;
   areaFilter: DelhiArea | null;
+  cuisineFilter: string | null;
+  tagFilter: MapTagFilter;
   onQueryChange: (query: string) => void;
   onAreaFilterChange: (area: DelhiArea | null) => void;
+  onCuisineFilterChange: (cuisine: string | null) => void;
+  onTagFilterChange: (tag: MapTagFilter) => void;
   onRefresh: () => void;
   onClearSearch: () => void;
   savedIds: Set<string>;
   localPlaces: Record<string, SavedLocalPlace>;
-  onToggleSave: (restaurantId: string) => Promise<void>;
+  onToggleSave: (restaurantId: string) => Promise<boolean>;
   onToggleMapPoi: (input: {
     name: string;
     lat: number;
@@ -57,8 +61,12 @@ export function RestaurantMap({
   guide,
   query,
   areaFilter,
+  cuisineFilter,
+  tagFilter,
   onQueryChange,
   onAreaFilterChange,
+  onCuisineFilterChange,
+  onTagFilterChange,
   onRefresh,
   onClearSearch,
   savedIds,
@@ -221,6 +229,7 @@ export function RestaurantMap({
   }, []);
 
   const searchTop = insets.top + 8;
+  const filtersTop = searchTop + 52;
 
   if (Platform.OS === 'web') {
     return (
@@ -234,10 +243,14 @@ export function RestaurantMap({
             style={styles.searchInput}
           />
         </RNView>
-        <MapAreaFilters
-          selected={areaFilter}
-          onSelect={onAreaFilterChange}
-          top={searchTop + 56}
+        <MapFilters
+          areaFilter={areaFilter}
+          cuisineFilter={cuisineFilter}
+          tagFilter={tagFilter}
+          onAreaChange={onAreaFilterChange}
+          onCuisineChange={onCuisineFilterChange}
+          onTagChange={onTagFilterChange}
+          top={filtersTop}
         />
         <Text variant="caption" className="px-4 pb-2 pt-24 normal-case tracking-normal">
           Map is not supported on web — list view below.
@@ -331,10 +344,14 @@ export function RestaurantMap({
         </RNView>
       )}
 
-      <MapAreaFilters
-        selected={areaFilter}
-        onSelect={onAreaFilterChange}
-        top={searchTop + 56}
+      <MapFilters
+        areaFilter={areaFilter}
+        cuisineFilter={cuisineFilter}
+        tagFilter={tagFilter}
+        onAreaChange={onAreaFilterChange}
+        onCuisineChange={onCuisineFilterChange}
+        onTagChange={onTagFilterChange}
+        top={filtersTop}
       />
 
       <MapSearchResults

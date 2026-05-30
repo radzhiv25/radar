@@ -1,3 +1,4 @@
+import type { MapTagFilter } from '@/components/map/MapFilters';
 import { getSupabaseOptional } from '@/lib/supabase';
 import type {
   DelhiArea,
@@ -89,7 +90,9 @@ function matchesQuery(row: RestaurantMapRow, q: string): boolean {
 
 export async function searchRestaurants(
   query: string,
-  areaFilter?: DelhiArea | null
+  areaFilter?: DelhiArea | null,
+  cuisineFilter?: string | null,
+  tagFilter?: MapTagFilter
 ): Promise<{ rows: RestaurantMapRow[]; failed: boolean }> {
   const trimmed = query.trim();
   let rows: RestaurantMapRow[];
@@ -132,6 +135,28 @@ export async function searchRestaurants(
 
   if (areaFilter) {
     rows = rows.filter((r) => r.area === areaFilter);
+  }
+
+  if (cuisineFilter) {
+    rows = rows.filter((r) => r.cuisine.toLowerCase().includes(cuisineFilter.toLowerCase()));
+  }
+
+  if (tagFilter) {
+    const supabase = getSupabaseOptional();
+    if (supabase) {
+      const ids = rows.map((r) => r.id);
+      if (ids.length > 0) {
+        const { data: tagRows } = await supabase
+          .from('restaurant_tags')
+          .select('restaurant_id, tag_type, tag')
+          .in('restaurant_id', ids)
+          .eq('tag_type', tagFilter.type)
+          .eq('tag', tagFilter.tag);
+
+        const matchIds = new Set((tagRows ?? []).map((t) => t.restaurant_id as string));
+        rows = rows.filter((r) => matchIds.has(r.id));
+      }
+    }
   }
 
   return { rows, failed: false };
