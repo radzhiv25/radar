@@ -1,3 +1,4 @@
+import { router } from 'expo-router';
 import {
   createContext,
   useCallback,
@@ -10,6 +11,7 @@ import {
 
 import { loadAllLocalSaves, removeLocalSave, saveMapPoi } from '@/lib/api/localSaves';
 import { loadSavedIds, persistSave } from '@/lib/api/saves';
+import { getSupabaseOptional } from '@/lib/supabase';
 import { isPoiSaveId, makePoiSaveId, type SavedLocalPlace } from '@/types/place';
 
 type SavesContextValue = {
@@ -17,7 +19,7 @@ type SavesContextValue = {
   localPlaces: Record<string, SavedLocalPlace>;
   loading: boolean;
   isSaved: (restaurantId: string) => boolean;
-  toggleSave: (restaurantId: string) => Promise<void>;
+  toggleSave: (restaurantId: string) => Promise<boolean>;
   toggleMapPoi: (input: { name: string; lat: number; lng: number; placeId: string }) => Promise<void>;
   refresh: () => Promise<void>;
 };
@@ -46,8 +48,27 @@ export function SavesProvider({ children }: { children: ReactNode }) {
 
   const isSaved = useCallback((restaurantId: string) => savedIds.has(restaurantId), [savedIds]);
 
+  const requireAuthForCatalogSave = useCallback(async (): Promise<boolean> => {
+    const supabase = getSupabaseOptional();
+    if (!supabase) return true;
+
+    const {
+      data: { session },
+    } = await supabase.auth.getSession();
+
+    if (session?.user) return true;
+
+    router.push('/(auth)/login');
+    return false;
+  }, []);
+
   const toggleSave = useCallback(
-    async (restaurantId: string) => {
+    async (restaurantId: string): Promise<boolean> => {
+      if (!isPoiSaveId(restaurantId)) {
+        const allowed = await requireAuthForCatalogSave();
+        if (!allowed) return false;
+      }
+
       const shouldSave = !savedIds.has(restaurantId);
       const next = await persistSave(restaurantId, shouldSave);
       setSavedIds(next);
@@ -58,8 +79,9 @@ export function SavesProvider({ children }: { children: ReactNode }) {
           return copy;
         });
       }
+      return true;
     },
-    [savedIds]
+    [savedIds, requireAuthForCatalogSave]
   );
 
   const toggleMapPoi = useCallback(
