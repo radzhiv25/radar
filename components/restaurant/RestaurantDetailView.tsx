@@ -2,6 +2,7 @@ import { useRouter } from 'expo-router';
 import { Dimensions, FlatList, Image, Pressable, ScrollView, View as RNView } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
+import { ReviewForm } from '@/components/restaurant/ReviewForm';
 import { TagChip } from '@/components/restaurant/TagChip';
 import { Button } from '@/components/ui/Button';
 import { Text } from '@/components/ui/Text';
@@ -15,6 +16,10 @@ type RestaurantDetailViewProps = {
   reviews: Review[];
   isSaved: boolean;
   onToggleSave: () => void;
+  canReview?: boolean;
+  myReview?: { rating: number; body: string | null } | null;
+  onSubmitReview?: (rating: number, body: string) => Promise<{ ok: boolean; error?: string }>;
+  onReviewPosted?: () => void;
 };
 
 export function RestaurantDetailView({
@@ -22,6 +27,10 @@ export function RestaurantDetailView({
   reviews,
   isSaved,
   onToggleSave,
+  canReview = false,
+  myReview = null,
+  onSubmitReview,
+  onReviewPosted,
 }: RestaurantDetailViewProps) {
   const router = useRouter();
   const insets = useSafeAreaInsets();
@@ -106,6 +115,17 @@ export function RestaurantDetailView({
 
         <View className="gap-3">
           <Text variant="label">Reviews</Text>
+          {canReview && onSubmitReview ? (
+            <ReviewForm
+              initialRating={myReview?.rating ?? 0}
+              initialBody={myReview?.body ?? ''}
+              onSubmit={async (rating, body) => {
+                const result = await onSubmitReview(rating, body);
+                if (result.ok) onReviewPosted?.();
+                return result;
+              }}
+            />
+          ) : null}
           {reviews.length === 0 ? (
             <Text variant="body" className="text-stone-500">
               No reviews yet. Be the first after you visit.
