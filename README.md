@@ -4,10 +4,13 @@ Delhi restaurant discovery — save-first, curated picks, map exploration. Built
 
 ## Features
 
-- **Home feed** — saved places first, then personalised picks
-- **Map** — Delhi default view; tap or long-press map places to save on device (iOS & Android)
-- **Profile** — saved restaurants list
-- **Onboarding** — taste preferences (cuisines, budget, areas)
+- **Home feed** — saved places first, then rule-based personalised picks (`get_feed` RPC when signed in)
+- **Map** — Delhi pins, search, area/cuisine/tag filters; tap POI or long-press to save on device
+- **Restaurant detail** — photos, tags, save, read/write reviews (signed in)
+- **Profile** — saved list, streak count, my reviews, edit taste
+- **Onboarding** — cuisines, budget, vibes, occasions, areas (syncs to Supabase when signed in)
+- **Auth** — email OTP via Supabase (iOS & Android); sign-in required to save catalog restaurants
+- **Share deep link** — `radar://share?q=...` opens search-to-save flow
 - **Guided empty states** — no harsh errors on first launch
 
 ## Project structure
@@ -54,11 +57,13 @@ docs/             Product spec and roadmap
    | `SUPABASE_URL` | Seed script only |
    | `SUPABASE_SERVICE_ROLE_KEY` | Seed script only |
 
+   | `EXPO_PUBLIC_GOOGLE_MAPS_API_KEY` | Android release maps (optional in dev) |
+
    Never commit `.env` — it is gitignored.
 
-3. **Database (optional)**
+3. **Database**
 
-   Apply migrations and seed restaurants:
+   Apply migrations and seed 84 Delhi restaurants:
 
    ```bash
    npx supabase db push
@@ -73,11 +78,23 @@ docs/             Product spec and roadmap
 
    Press `i` for iOS simulator, `a` for Android, or scan the QR code with Expo Go.
 
-   Clear Metro cache if env vars changed:
+5. **Production builds (EAS)**
 
    ```bash
-   npm start -- --clear
+   npx eas-cli build --profile preview --platform all
    ```
+
+   Configure `EAS_PROJECT_ID` in `.env` after `eas init`.
+
+## Share deep link
+
+Open the share save flow from another app or terminal:
+
+```text
+radar://share?q=hauz%20khas
+```
+
+On iOS/Android, configure a share target in a future native build; MVP uses deep links + in-app search.
 
 ## Map saves (local)
 
